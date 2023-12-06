@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+
+<html lang = "en">
+   
+    <head>
+        
+        <!-- UIkit CSS -->
+        <link rel= "stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.17.9/dist/css/uikit.min.css" />
+
+        <!-- UIkit JS -->
+        <script src="https://cdn.jsdelivr.net/npm/uikit@3.17.9/dist/js/uikit.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/uikit@3.17.9/dist/js/uikit-icons.min.js"></script>
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
+        
+        <link rel = "stylesheet" href="style.css" />
+
+        <title>The Autonomic Nervous System</title>
+    
+    </head>
+
+    <body id = "home">
+    
+        <div>   
+           
+        <header>
+
+            <!-- <div id = header-area> -->
+
+                <img alt = "website logo" class = "logo" src = "images/logo.svg"/>
+
+                <nav uk-dropnav>
+                
+                    <ul class = "uksubnav">
+
+                        <ul class = "uksubnav">
+
+                            <!-- Home -->
+    
+                            <li class = "nav">
+    
+                                <a class = "main-item" href = "index.html">Home</a>
+                        
+                            </li>
+    
+                            <!-- Overview -->
+    
+                            <li class = "nav" class = "uk-active">
+    
+                                <span id = "overview" class = "main-item">Overview</span>
+    
+                                <!-- <img class = "bullet" src = "images/page indicator.svg" /> -->
+                            
+                                    <div class = "uk-dropdown">
+                                
+                                    <ul class = "uk-nav uk-dropdown-nav">
+                                    
+                                        <li><a href = "The Autonomic Nervous System.html">The Autonomic Nervous System</a></li>
+                                
+                                    </ul>
+                            
+                                    </div>
+                                
+                            </li>
+    
+                            <!-- Parasympathetic -->
+                    
+                            <li class = "nav">
+    
+                                <span class = "main-item">Parasympathetic Division</span>
+                            
+                                <div class = "uk-dropdown">
+                                
+                                    <ul class = "uk-nav uk-dropdown-nav">
+                                    
+                                        <li class = "uk-active"><a href = "parasympathetic-structure.html">Structure</a></li>
+                                        <li><a href = "parasympathetic-purpose.html">Purpose</a></li>
+                                
+                                    </ul>
+                            
+                                </div>
+                                
+                            </li>
+    
+                            <!-- Sympathetic -->
+    
+                            <li class = "nav">
+    
+                                <span class = "main-item">Sympathetic Division</span>
+                            
+                                <div class = "uk-dropdown">
+                                
+                                    <ul class = "uk-nav uk-dropdown-nav">
+                                    
+                                        <li><a href = "sympathetic-structure.html">Structure</a></li>
+                                        <li><a href = "sympathetic-purpose.html">Purpose</a></li>
+                                
+                                    </ul>
+                            
+                                </div>
+                                
+                            </li>
+    
+                            <!-- Signalling -->
+    
+                            <li class = "nav">
+    
+                                <span class = "main-item" href = "">Signalling</span>
+                            
+                                    <div class = "uk-dropdown">
+                                
+                                    <ul class = "uk-nav uk-dropdown-nav">
+                                    
+                                        <li><a href = "parasympathetic-signalling.html">Parasympathetic Signalling</a></li>
+                                        <li><a href = "sympathetic-signalling.html">Sympathetic Signalling</a></li>
+                                
+                                    </ul>
+                            
+                                </div>
+                                
+                            </li>
+    
+                            <!-- Application -->
+    
+                            <li class = "nav">
+    
+                                <span class = "main-item" href = "">Application</span>
+                            
+                                <div class = "uk-dropdown">
+                                
+                                    <ul class = "uk-nav uk-dropdown-nav">
+                                    
+                                        <li><a href = "eyes.html">The Eyes</a></li>
+                                        <li><a href = "heart.html">The Heart</a></li>
+                                        <li><a href = "stomach.html">The Stomach</a></li>
+                                        <li><a href = "adrenal.html">The Adrenal Gland</a></li>
+                                    </ul>
+                            
+                                </div>
+                                
+                            </li>
+                        
+                        </ul>
+    
+                    </nav>
+
+        </header>
+
+        <!-- search bar -->
+            
+        <div id = "search">
+
+            <img id = "search-icon" src = "images/search.svg" />
+        
+            <form class = "uk-search" aria-label= "Search" class = "uk-search uk-search-large">
+
+                <input class = "uk-search-input" type =  "search" placeholder = "" aria-label = "">
+        
+            </form>
+            
+        </div>
+
+
+        <article class = "uk-animation-scale-down">
+
+            <div id = "parasympathetic-structure">
+
+                <h1>Structure</h1>
+
+                    
+                    <p>As shown in the in the overview, parasympathetic preganglionic neurons originate from cranial nerves III (the ocular motor) VII (the facial) 
+                        IX (the glossopharyngeal), and X (the vagus) at the brainstem or the sacral region of the spinal cord. These neurons synapse with postganglionic 
+                        neurons near, or inside the wall of, their target organs.</p>
+
+                    <img src = "images/para-structure.svg"/>
+            </div>
+
+            <h3>Next Topic: <a class = "next-topic" href = "parasympathetic-purpose.html">The Purpose of the Parasympathetic Nervous System</a></h3>
+
+        </article>
+
+
+   
+
+
+        <footer>
+
+            <ul class = "uk-breadcrumb">
+
+                <li><a href = "index.html">Home</a></li>
+
+                <li><span>Parasympathetic Division</span></li>
+                
+                <li><span id = "current-bread">Structure</span></li>
+                
+            </ul>
+
+            
+            <a id = "references" href = "References.html">References</a>
+
+            <h2 id = "back-to-top"><a href = "#top"> Back to top</a></h2>
+
+        </footer>
+
+    </div>  
+        
+    </body>

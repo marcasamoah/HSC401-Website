@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 240 115" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-365.773,-97.826)">
+        <g id="Eye" transform="matrix(0.990326,0,0,0.990326,-510.388,-216.996)">
+            <g transform="matrix(1,0,0,1,0,-2.74233)">
+                <ellipse cx="1005.44" cy="378.361" rx="120.719" ry="57.721" style="fill:url(#_Linear1);"/>
+            </g>
+            <g transform="matrix(1.16883,0,0,1.16883,-190.606,-69.6214)">
+                <circle cx="1023.28" cy="380.928" r="41.476" style="fill:url(#_Radial2);"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(308.806,117.465,-117.465,308.806,937.303,360.696)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:rgb(166,165,168);stop-opacity:1"/></linearGradient>
+        <radialGradient id="_Radial2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(97.3211,-20.1334,20.1334,97.3211,1023.28,380.928)"><stop offset="0" style="stop-color:rgb(173,189,255);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(133,83,255);stop-opacity:1"/></radialGradient>
+    </defs>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 446 451" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-707.185,-540)">
+        <g transform="matrix(1.53497,0,0,1.70448,-1201.47,189.298)">
+            <g id="Stomach">
+                <path d="M1253.31,469.172C1230.75,463.979 1249.76,422.882 1281.5,414.303C1313.25,405.724 1347.56,411.729 1368.15,376.555C1388.74,341.381 1424.77,317.359 1403.33,284.759C1381.88,252.159 1387.76,235.906 1392.04,221.782C1394.94,212.244 1402.21,200.757 1415.13,208.072C1425.53,213.957 1400.75,222.132 1410.19,248.727C1419.63,275.322 1436.46,264.786 1456.94,252.47C1473.99,242.221 1516.86,239.454 1527.5,272.389C1534.67,294.555 1546.03,375.338 1488.38,422.694C1430.73,470.051 1390.24,439.852 1368.96,425.439C1347.69,411.027 1329.84,420.91 1310.62,425.028C1291.41,429.146 1267.47,444.817 1272.19,459.756C1276.31,472.796 1259.15,470.516 1253.31,469.172Z" style="fill:url(#_Linear1);"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-447.959,-82.8798,92.0324,-403.409,1836.42,420.872)"><stop offset="0" style="stop-color:rgb(174,19,41);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(179,95,109);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
